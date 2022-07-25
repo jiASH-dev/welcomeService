@@ -1,0 +1,18 @@
+body {
+  background: url("../image/background.png") no-repeat center center fixed;
+  background-size: cover;
+  color: bisque;
+  text-transform: uppercase;
+}
+
+.allInfo {
+  padding-top: 230px;
+}
+.allInfo__ourContactsPrint {
+  text-align: center;
+}
+.allInfo__descriptionPrint {
+  font-size: 25px;
+}
+
+/*# sourceMappingURL=about.css.map */
